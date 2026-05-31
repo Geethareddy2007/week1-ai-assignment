@@ -27,3 +27,5 @@ This project is created as part of the Week 1 AI Assignment.
 - JSON
 - API Integration
 - GitHub
+
+Week 1 AI Assignment completed successfully.
